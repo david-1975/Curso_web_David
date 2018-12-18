@@ -1,0 +1,19 @@
+{
+  "name": "curso_web_david",
+  "version": "1.0.0",
+  "description": "HTTP CSS3 JAVA SCRIPT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-1975/Curso_web_David.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-1975/Curso_web_David/issues"
+  },
+  "homepage": "https://github.com/david-1975/Curso_web_David#readme"
+}
