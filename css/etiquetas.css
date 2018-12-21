@@ -1,7 +1,31 @@
+body{
+
+}
+body>header, footer {
+    background-color: blue;
+    color: bisque;
+    padding: 1rem;
+}
+
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
 nav ol, nav ul {
+    margin: 0;
+    padding: 0;
     list-style: none;
+}
+nav li {
+    display: inline-block;
+/* con esto conseguimos que el listado salga en horizontal. */
+
 }
 nav a{
     text-decoration: none;
-    color: inherit
+    color: inherit;
+    display: block;
+    padding: 0rem 1rem;
+    border: 1px solid;
+
 }
